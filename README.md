@@ -9,7 +9,7 @@ O robô é composto por 3 projetos:
 
 Para executar/trabalhar no projeto, baixem a versão free do Visual Studio aqui --> https://www.visualstudio.com/pt-br/products/visual-studio-community-vs.aspx
 
-Para o parse do HTML é utilizada a excelente biblioteca HtmlAgilityPack - https://htmlagilitypack.codeplex.com - que não está inclusa devido à licença. Foi utilizada a versão 1.4.0.0 dessa biblioteca.
+Para o parse do HTML é utilizada a excelente biblioteca HtmlAgilityPack - https://htmlagilitypack.codeplex.com - que não está inclusa devido à licença. Foi utilizada a versão 1.4.0.0 dessa biblioteca. Não é nada demais, só pegar a DLL e acrescentar nas referências do projeto.
 
 O código que realiza o Parse das páginas de oferta está em RoboUnb.cs. 
 
