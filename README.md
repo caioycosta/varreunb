@@ -1,6 +1,8 @@
 # varreunb
 Robô para varrer a oferta do Matrícula Web - UnB
 
+Contribuições serão bem-vindas.
+
 O robô é composto por 3 projetos:
 
 - *CodeMQ:* outra biblioteca de minha autoria, para troca de mensagens entre threads. Página do projeto: https://codemq.codeplex.com/
