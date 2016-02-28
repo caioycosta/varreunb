@@ -7,6 +7,8 @@ O robô é composto por 3 projetos:
 - *VarreUnb:* código principal do robô
 - *MonitoramentoVagas:* utiliza o VarreUnB e executa-o periodicamente em uma turma específica, e envia um email caso o número de vagas disponíveis se altere. O método de enviar email não foi publicado aqui no github, pois continha informações pessoais.
 
+Para executar/trabalhar no projeto, baixem a versão free do Visual Studio aqui --> https://www.visualstudio.com/pt-br/products/visual-studio-community-vs.aspx
+
 Para o parse do HTML é utilizada a excelente biblioteca HtmlAgilityPack - https://htmlagilitypack.codeplex.com - que não está inclusa devido à licença. Foi utilizada a versão 1.4.0.0 dessa biblioteca.
 
 O código que realiza o Parse das páginas de oferta está em RoboUnb.cs. 
